@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5892d0897802a194b8bcf1e07b77903c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - laserTemplate: {fileID: 3617257585736855164, guid: 18dd31fa0dff7b64fac5b282609930b1, type: 3}
+  - spawnPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
